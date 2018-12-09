@@ -1,0 +1,20 @@
+body{
+  margin-bottom: 500px;
+}
+
+.my-container{
+  border: 1px solid #9eef23;
+}
+
+.my-row{
+  border: 1px solid #a8361c;
+  margin-top: 2px;
+  height: 100px;
+}
+.my-col{
+  text-align: center;
+}
+form{
+  width: 500px;
+  margin: auto;
+}
