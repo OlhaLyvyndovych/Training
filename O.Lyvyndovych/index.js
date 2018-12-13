@@ -57,7 +57,7 @@ const patterns = {
    function validateEmail(){
       let email = document.getElementById('email').value;
       let emailResult = patterns.email.test(email);
-      if (emailResult == false) alert('Please correct your email');
+      if (emailResult == false) alert('Email address is not valid');
 
     };
 
